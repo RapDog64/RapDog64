@@ -5,7 +5,7 @@ My career, as an automation quality assurance engineer, started with UI testing.
 Later I've learned tools such as Rest Assured, Selenoid, Docker, and Spring. However, I didn't stop my learning and continue growing as a specialist and try new tools. In addition to that,
 I created a test automation project, where I used modern technologies and tools, so here is [the link](https://github.com/RapDog64/webshop-automation-practice#readme) to the project.
 
-## Languages Card: :coffee:
+## Language Stats: :coffee:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RapDog64&layout=compact)](https://github.com/RapDog64)
 
     
